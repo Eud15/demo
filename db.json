@@ -23,16 +23,7 @@
     { "id": 16,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
     { "id": 17,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
     { "id": 18,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 19,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 20,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 21,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 22,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 23,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 24,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 25,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 26,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 27,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 },
-    { "id": 28,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 }    
+    { "id": 19,"full_name": "RH Test", "title": "some comment","date": "15:15", "postId": 1 } 
   ],
   "profile": {
     "name": "typicode"
