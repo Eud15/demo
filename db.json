@@ -1,9 +1,9 @@
 
 {
   "messages": [
-    { "id": 1,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
+    { "id": 1,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": true },
     { "id": 2,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
-    { "id": 3,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
+    { "id": 3,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": true },
     { "id": 4,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
     { "id": 5,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
     { "id": 6,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false },
