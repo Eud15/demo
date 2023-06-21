@@ -1,7 +1,7 @@
 
 {
   "messages": [
-    { "id": 1,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": true, "seen": false},
+    { "id": 1,"full_name": "RH Test", "title": "Importante réunion avec le DG par rapport à une commande de prise de gestion","date": "15:15", "selected": true, "seen": false},
     { "id": 2,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false, "seen": true },
     { "id": 3,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": true,"seen": false},
     { "id": 4,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false, "seen": false},
