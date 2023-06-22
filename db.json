@@ -1,6 +1,6 @@
 
 {
-  "messages": [
+  "inbox": [
     { "id": 1,"full_name": "RH Test", "title": "Importante réunion avec le DG par rapport à une commande de prise de gestion","date": "15:15", "selected": true, "seen": false},
     { "id": 2,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false, "seen": true },
     { "id": 3,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": true,"seen": false},
@@ -14,8 +14,10 @@
     { "id": 11,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
     { "id": 12,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
     { "id": 13,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 14,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 15,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 14,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false }
+  ],
+  "sent": [
+    
     { "id": 16,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
     { "id": 17,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
     { "id": 18,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
