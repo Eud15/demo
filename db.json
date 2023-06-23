@@ -18,19 +18,19 @@
   ],
   "sent": [
     
-    { "id": 16,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 17,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 18,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 16,"full_name": "RC ylomi", "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse egestas non est quis consequat. Nulla at nisl velit. Mauris ut ligula mauris. Donec auctor quis quam dapibus viverra. Etiam vestibulum id risus nec porttitor. Nunc semper massa sit amet nunc aliquam, in","date": "15:15", "selected": false,"seen": false },
+    { "id": 17,"full_name": "CC Ylomi", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
+    { "id": 18,"full_name": "RH Test", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
     { "id": 19,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 20,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 21,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 20,"full_name": "RH Test", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
+    { "id": 21,"full_name": "DG Ylomi", "title": "some comment","date": "15:15", "selected": false,"seen": false },
     { "id": 22,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 23,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 24,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 25,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 26,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 27,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
-    { "id": 28,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 23,"full_name": "RH Test", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
+    { "id": 24,"full_name": "CA Ylomi", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 25,"full_name": "RH Test", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
+    { "id": 26,"full_name": "Customertest", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 27,"full_name": "Client2", "title": "some comment","date": "15:15", "selected": false,"seen": false },
+    { "id": 28,"full_name": "RH Test", "title": "Fusce imperdiet, ligula in luctus feugiat, tellus diam sollicitudin metus, at elementum felis libero in nisl.","date": "15:15", "selected": false,"seen": false },
     { "id": 30,"full_name": "RH Test", "title": "some comment","date": "15:15", "selected": false ,"seen": false} 
   ]
 }
